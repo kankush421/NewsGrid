@@ -1,0 +1,13 @@
+:root{
+    --primary-clr:#c72727;
+    --secondary-clr:#f99500;
+    --light-clr:#f3f3f3;
+    --dark-clr:#333;
+    --max-width:1100px;
+
+}
+
+.category{
+    --sport-clr:#f99500;
+    --ent-clr:#a66bbe;
+}
